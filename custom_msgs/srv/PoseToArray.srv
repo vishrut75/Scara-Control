@@ -1,0 +1,6 @@
+float32 px
+float32 py
+float32 pz
+---
+float32[3] sol1
+float32[3] sol2
